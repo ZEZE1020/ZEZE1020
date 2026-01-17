@@ -20,16 +20,6 @@
 </div>
 
 ---
-
-### 👨‍💻 About Me
-
-I am a **Founding Engineer** at **Victoria Sentinel**, where I combine my background in **Biotechnology** with IT to solve environmental and connectivity challenges in East Africa. Based in **Kisumu, Kenya**, I'm interested in building "Offline-First" technology and high-performance distributed systems.
-
-- 🔭 **I’m currently working on:** [vPasi](https://github.com/ZEZE1020/vPasi) (A digital trade companion) and **Victoria Sentinel** (AI for Lake Victoria).
-- 🌱 **I’m currently learning:** Deep diving into **Rust**, **Quarkus**, and **Oracle Cloud GenAI** for intelligent infrastructure.
-- 👨‍🏫 **Community:** I'm also a Coding Instructor at **KidsCodelab** and an organizing member of **Django Girls Kisumu**.
-- 💡 **Interests:** Computational Biology, Data Intensive Systems, and Cloud Ops.
-
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
